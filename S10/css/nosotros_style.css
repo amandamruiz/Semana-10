@@ -1,0 +1,103 @@
+style.css
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	font-size: 1em;
+	margin-left: 2%;
+}
+
+header {
+	font-size: 1em;
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	list-style-type: none;
+ 	margin: 0;
+ 	overflow: hidden;
+ 	background-color: white;
+ 	margin-left: 1.2%;
+}
+
+nav {
+	text-align: center;
+	margin-top: 23px;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+
+li {
+	display: inline;
+}
+
+a{
+	padding: 5% 5%;
+	text-decoration: none;
+}
+
+li a:link {
+	color: black;
+}
+
+li a:hover {
+ color: #b3c26a;
+}
+
+li a:active {
+    background-color: #b3c26a;
+}
+
+h2{
+	font-size: 4em;
+	color: #b3c26a;
+	font-family: 'opensans', sans-serif;
+	text-align: center;
+	margin-top: -5%;
+	margin-right: 5%;
+}
+
+body{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+
+section {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 1.1%;
+	margin-top: 2%;
+
+}
+
+article{
+	margin: 6%;
+	margin-top: 14%;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	font-size: 1em;
+	margin-left: 2%;
+}
+
+footer{
+	color: black;
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 1em;
+	background-color: #b3c26a;
+	height: 10%;
+	padding: 6%;
+	margin-top: 6%;
+
+}
+
+footer p{
+	color: white;
+}
+
+.image {
+	margin-left: 3%;
+	margin-top: 3.4%;
+}
